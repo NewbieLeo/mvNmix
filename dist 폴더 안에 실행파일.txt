@@ -1,0 +1,2 @@
+dist/mvNmix.exe (Windows exe 실행 파일)
+./mvNmix.py (Python 파일, pyautogui 요구)
